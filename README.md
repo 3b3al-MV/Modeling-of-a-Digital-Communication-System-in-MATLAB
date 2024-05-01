@@ -22,5 +22,6 @@ The simulation results are plotted to compare the simulated BER with theoretical
 
 |         *1-BPSK Simulated vs Theoretical*         |         *2-QPSK Simulated vs Theoretical*         |       *3-8PSK Simulated vs Theoretical*           |
 |--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
-| ![](Screenshots/1-BPSK_%20Simulated%20vs%20Theoretical.png) | ![Alt](Screenshots/2-QPSK_%20Simulated%20vs%20Theoretical.png) | ![Demo Alt Text](Screenshots/3-8PSK_%20Simulated%20vs%20Theoretical.png) |
+| ![](Screenshots/1-BPSK_%20Simulated%20vs%20Theoretical.png) | ![](Screenshots/2-QPSK_%20Simulated%20vs%20Theoretical.png) | ![](Screenshots/3-8PSK_%20Simulated%20vs%20Theoretical.png) |
+ *1-BPSK Simulated vs Theoretical*         |         *2-QPSK Simulated vs Theoretical*         |       *3-8PSK Simulated vs Theoretical*           |
 
