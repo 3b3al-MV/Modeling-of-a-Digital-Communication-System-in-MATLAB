@@ -24,9 +24,9 @@ The simulation results are plotted to compare the simulated BER with theoretical
 |--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
 | ![](Screenshots/1-BPSK_%20Simulated%20vs%20Theoretical.png) | ![](Screenshots/2-QPSK_%20Simulated%20vs%20Theoretical.png) | ![](Screenshots/3-8PSK_%20Simulated%20vs%20Theoretical.png) |
 | *4-QAM Simulated vs Theoretical* | *5-BER Simulated vs Theoretical - All in one graph* | *6-BER of Gray Code QPSK vs Binary Code QPSK* |     
-| ![](Screenshots/4-QAM_ Simulated vs Theoretical.png) | ![](Screenshots/5-BER_ Simulated vs Theoretical - All in one graph.png) | ![](Screenshots/6-BER of Gray Code QPSK vs Binary Code QPSK.png) |
+| ![](Screenshots/4-QAM_%20Simulated%20vs%20Theoretical.png) | ![](Screenshots/5-BER_%20Simulated%20vs%20Theoretical%20-%20All%20in%20one%20graph.png) | ![](Screenshots/6-BER%20of%20Gray%20Code%20QPSK%20vs%20Binary%20Code%20QPSK.png) |
 *7-BER of BFSK and Theoretical Calculations* | *8-Power Spectral Density (PSD)*
-![](Screenshots/7-BER of BFSK and Theoretical Calculations.png) | ![](Screenshots/8-Power Spectral Density (PSD).png)
+![](Screenshots/7-BER%20of%20BFSK%20and%20Theoretical%20Calculations.png) | ![](Screenshots/8-Power%20Spectral%20Density%20(PSD).png)
 
 End
 
