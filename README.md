@@ -21,6 +21,6 @@ The MATLAB scripts provided in this repository simulate the performance of diffe
 The simulation results are plotted to compare the simulated BER with theoretical BER curves for each modulation scheme. Separate plots are provided for each modulation technique, as well as a combined plot for comparison.
 
 |         1-BPSK_ Simulated vs Theoretical         |         2-QPSK_ Simulated vs Theoretical         |       3-8PSK_ Simulated vs Theoretical           |
+|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
 | Screenshots/1-BPSK_ Simulated vs Theoretical.png | Screenshots/2-QPSK_ Simulated vs Theoretical.png | Screenshots/3-8PSK_ Simulated vs Theoretical.png |
-|                                                  |                                                  |                                                  |
 |--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
